@@ -1,6 +1,6 @@
 #changes in dev branch
-a=5
-b=6
+a=50
+b=60
 c=10
 
 sum=a+b+c
