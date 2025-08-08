@@ -1,7 +1,7 @@
 
 #changes in dev branch
-a=50
-b=60
+a=52
+b=62
 
 c=10
 
